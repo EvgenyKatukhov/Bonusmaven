@@ -4,7 +4,7 @@ public class Main {
 
         // подготавливаем данные:
         long amount = 1_000_000_60;
-        boolean registered = true;
+        boolean registered = false;
         long expected = 400;
 
         // вызываем целевой метод:
